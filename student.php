@@ -361,7 +361,7 @@
         </main>
         <!--
         <footer class="copyright-text">
-            <p>© Copyright Prateek 2023 </p>
+            <p>© Copyright Veda 2024 </p>
         </footer>
         -->
     </body>
